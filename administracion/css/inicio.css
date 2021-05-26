@@ -1,0 +1,17 @@
+  .fakeimg {
+      height: 200px;
+      background: #aaa;
+  }
+
+  .jumbotron{
+     background:#01dae3; 
+     padding-top: 1em; 
+     padding-bottom: 1em;  
+  }
+
+  .navbar{
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
